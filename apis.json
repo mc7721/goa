@@ -1,0 +1,58 @@
+{
+    "name": "Goa",
+    "description": "goa is a code generation framework built in Go that provides the developer with a clear and concise path to generate idiomatic API and Microservice architectures by using a design-first methodology.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19918-goa.jpg",
+    "tags": [
+        "api service provider",
+        "deployment",
+        "have api",
+        "microservices"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/goa\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Goa",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19918-goa.jpg",
+            "humanURL": "https:\/\/goa.design\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/goa-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/goa-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/goa.design\/blog\/004-xray\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/search\/organizations\/field\/organizations\/location_identifiers\/goa-goa"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/goadesign"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/goadesign"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/goa.design\/"
+        }
+    ]
+}
